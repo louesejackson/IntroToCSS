@@ -2,9 +2,9 @@
 
 Beginners CSS Tutorial
 
-##Aims and Objectives
+## Aims and Objectives
 
-##Overview
+## Overview
 
 In this tutorial you are supplied with a simple HTML file with an accompanying empty css file. 
 There are several folders 1-9, in each folder we add some css and some accompanying discussion.
