@@ -1,0 +1,102 @@
+html{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    font-family: Times New Roman, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 32px 0px 32px 64px;
+    margin: 0;
+
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    color: #FC0;
+    font-size:64px;
+    margin: 0;
+}
+
+section{
+    font-size:22px;
+    color:#CCC;
+    padding: 16px 64px 16px 64px;
+}
+
+.feline {
+    background-color: #333;
+}
+
+.bill {
+    background: grey;
+}
+
+p {
+    text-align: justify;
+}
+
+nav{
+  background-color:#FC0;
+  color:#333;
+  margin: 0;
+  padding: 16px 0px 16px 64px;
+  font-family: Helvetica, sans-serif;
+}
+
+nav a{
+    font-size:22px;
+    color:#333;
+    text-decoration:none;
+    padding: 0px 16px 0px 0px;
+}
+
+nav a:hover{
+    color: grey;
+    text-decoration:underline;
+}
+
+.quote{
+    margin: 16px 64px 16px 64px;
+}
+
+
+
+.right_image{
+    padding: 24px 0 24px 24px;
+    float: right;
+}
+
+.left_image{
+    padding: 24px 24px 24px 0px;
+    float: left;
+}
+
+.footer
+{
+    background-color:#FC0;
+    color:#333;
+    margin: 0;
+    padding: 16px 0px 16px 64px;
+    font-family: Helvetica, sans-serif;
+}
+
+
+a{
+    color:#FC0;
+    text-decoration:underline;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.quote{
+    font-style: italic;
+}
